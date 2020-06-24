@@ -1,0 +1,9 @@
+<h1 style="color:orange">Hello Golang!</h1>
+<h2> i miss you!</h2>
+<img id="i1" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575886122912&di=d2fc1d8ff82ed2fbcca6aa94a096021e&imgtype=0&src=http%3A%2F%2Fdingyue.nosdn.127.net%2Fnmup3YPc9kzZ6qDi02TXla%3DUz1YJey0CKgJQ9FhwI9alr1530798492047.jpg" >
+<button id="b1">我</button>
+<script>
+    document.getElementById("b1").onclick= function(){
+    document.getElementById("i1").src = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575886371994&di=33e2ce2c7fb9ac6f28031123c3fd7966&imgtype=0&src=http%3A%2F%2Ft-1.tuzhan.com%2F3eade7bb0034%2Fc-2%2Fl%2F2014%2F12%2F01%2F05%2Fa426105280ee4b07bd7681bb8225125e.jpg"
+    }
+</script>

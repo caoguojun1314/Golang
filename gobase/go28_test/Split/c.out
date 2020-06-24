@@ -1,0 +1,4 @@
+mode: set
+go28_test/Split/split.go:9.40,11.14 2 1
+go28_test/Split/split.go:16.2,17.8 2 1
+go28_test/Split/split.go:11.14,15.3 3 1
